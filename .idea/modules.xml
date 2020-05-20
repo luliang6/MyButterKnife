@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyButterKnife.iml" filepath="$PROJECT_DIR$/MyButterKnife.iml" group="MyButterKnife" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MyButterKnife/app" />
+      <module fileurl="file://$PROJECT_DIR$/lib-annotationprocessor/lib-annotationprocessor.iml" filepath="$PROJECT_DIR$/lib-annotationprocessor/lib-annotationprocessor.iml" group="MyButterKnife/lib-annotationprocessor" />
+      <module fileurl="file://$PROJECT_DIR$/lib-annotations/lib-annotations.iml" filepath="$PROJECT_DIR$/lib-annotations/lib-annotations.iml" group="MyButterKnife/lib-annotations" />
+      <module fileurl="file://$PROJECT_DIR$/lib-processor/lib-processor.iml" filepath="$PROJECT_DIR$/lib-processor/lib-processor.iml" group="MyButterKnife/lib-processor" />
+    </modules>
+  </component>
+</project>
